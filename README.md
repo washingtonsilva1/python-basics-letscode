@@ -4,4 +4,5 @@
 <ul>
   <li><a href="https://github.com/washingtonsilva1/python-basics-letscode/tree/main/Mod_1">Módulo 1</a></li>
   <li><a href="https://github.com/washingtonsilva1/python-basics-letscode/tree/main/Mod_2">Módulo 2</a></li>
+  <li><a href="https://github.com/washingtonsilva1/python-basics-letscode/tree/main/Mod_3">Módulo 3</a></li>
 </ul>
